@@ -1,7 +1,7 @@
 # CKEditor Glyphicons for Typesetter CMS #
 
 ## About
-Adds the <a href="https://ckeditor.com/cke4/addon/glyphicons" targtet="_blank">CKEditor Gylphicons Plugin</a>(ver. 2.2) to Typesetter&rsquo;s CKEditor (current version 4.5).
+Adds the <a href="https://ckeditor.com/cke4/addon/glyphicons" targtet="_blank">CKEditor Gylphicons Plugin</a> (ver. 2.2) to Typesetter&rsquo;s CKEditor (current version 4.5).
 
 See also [Typesetter Home](http://www.typesettercms.com), [Typesetter on GitHub](https://github.com/Typesetter/Typesetter)
 
@@ -9,7 +9,7 @@ See also [Typesetter Home](http://www.typesettercms.com), [Typesetter on GitHub]
 * <a href="http://ckeditor.com/cke4/addon/lineutils" target="_blank">Line Utilities</a> and <a href="https://ckeditor.com/cke4/addon/widget" target="_blank">Widget</a> will be installed along to resolve dependencies. (<a href="http://ckeditor.com/cke4/addon/colordialog" target="_blank">Color Dialog</a> is already part of Typesetter&rsquo;s CKEditor build.)
 
 ## Current Version 
-4.5.11 (synced with CKE plugin version)
+4.5.11 (synced with CKE plugin dependencies version)
 
 ## Requirements ##
 * Typesetter CMS 5.0+
